@@ -1,3 +1,4 @@
+[readme.txt](https://github.com/user-attachments/files/19821001/readme.txt)
 # Agent-of-justice 
 
 Courtroom Simulation with Multi-Agent AI
